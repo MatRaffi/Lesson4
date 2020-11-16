@@ -111,8 +111,8 @@ const WorldClock = () => {
   return (
     <View>
       <Clock name="Asia/Singapore" />
-      <Clock name="Africa/Kampala" />
-      <Clock name="America/New_York" />
+      <Clock name="East Africa/Uganda" />
+      <Clock name="America/Texas" />
       <Clock name="America/Argentina/Buenos_Aires" />
     </View>
   );
